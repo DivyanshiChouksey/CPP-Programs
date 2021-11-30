@@ -20,7 +20,7 @@ class student{
 		avg = (p+c+m+h+e)/5;
 	}
 	void showresult(){
-		cout<<" result ="<<avg;
+		cout<<" result = "<<avg;
 	}
 };
 
