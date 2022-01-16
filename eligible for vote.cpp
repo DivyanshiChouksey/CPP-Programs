@@ -16,13 +16,13 @@ int main()
 
 	if (age>=18){
 
-		cout<<"you can vote";
+		cout<<"You can vote";
 
 	}
 
 	else{
 
-		cout<<"you can't vote";
+		cout<<"You can't vote";
 
 	}
 
