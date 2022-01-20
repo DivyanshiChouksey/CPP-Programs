@@ -24,7 +24,7 @@ class student{
 
 int main(){
 	student s1;
-	cout<<"Name = "<<s1.name<<" Rollno = "<<s1.rollno<<endl;
+	cout<<" Name = "<<s1.name<<" Rollno = "<<s1.rollno<<endl;
 	s1.getvalue();
 	s1.calculate();
 	s1.showValues();
