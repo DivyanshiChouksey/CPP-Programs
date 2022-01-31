@@ -17,7 +17,7 @@ class child:public parent{
 		void money2(){
 			childmoney = 20;
 			cout<<"child is money = "<<childmoney<<endl;
-			cout<<"child's total money = " <<parentmoney+childmoney<<endl;
+			cout<<"Child's total money = " <<parentmoney+childmoney<<endl;
 		}
 };
 
